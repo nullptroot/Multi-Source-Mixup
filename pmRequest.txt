@@ -1,0 +1,13 @@
+timm==0.5.4
+
+tqdm==4.64.0
+
+pyyaml==6.0
+
+yacs==0.1.8
+
+einops==0.4.1
+
+opencv-python==4.5.5.64
+
+termcolor==1.1.0
